@@ -23,14 +23,8 @@ function getBotResponse(input) {
     else if (input == "goodbye") {
         return "Talk to you later!";
     }
-    else if (input == "how are you?") {
-        return "I am fine and what about you?"
-    }
-    else if (input == "i am also fine") {
-        return "Great!"
-    }
-    else if (input == "goodbye") {
-        return "Talk to you later!";
+    else if (input == "❤️") {
+        return "❤️"
     }
     else {
         return "Try asking something else!";
